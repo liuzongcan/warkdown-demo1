@@ -11,6 +11,7 @@
 2. CSS
 3. javaScript
 
+刚学习`HTML`希望尽快学习`CSS` `javaScript`
 ```html
 <!DOCTYPE html>
 <html lang="cmn-hans">
